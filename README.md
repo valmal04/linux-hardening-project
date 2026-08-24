@@ -19,7 +19,7 @@ Il laboratorio comprende:
 - verifica delle modifiche effettuate;
 - documentazione before/after di ogni intervento.
 
-[Visualizza il laboratorio ->](./project-files/)
+[Visualizza il laboratorio →](./project-files/)
 
 ## Metodologia
 
